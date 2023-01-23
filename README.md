@@ -14,7 +14,7 @@ make operations in the given matrix
  end the program
 
 ## Program:
-```#Program to find the eigen values and eigen vectors.
+```python
 #Developed by: Adhithiyan K
 #RegisterNumber:22001999
 import numpy as np
